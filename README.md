@@ -74,7 +74,7 @@ Security Defaults and Conditional Access **cannot run together**. The script che
 ```powershell
 # 1. Clone the repository
 git clone https://github.com/IT1-CJ/Conditional-Access-Baselines.git
-cd conditional-access-baseline
+cd Conditional-Access-Baselines
 
 # 2. Run the deployment script
 pwsh ./Build-ConditionalAccessBaseline.ps1
