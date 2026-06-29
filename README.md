@@ -73,7 +73,7 @@ Security Defaults and Conditional Access **cannot run together**. The script che
 
 ```powershell
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/conditional-access-baseline.git
+git clone https://github.com/IT1-CJ/Conditional-Access-Baselines.git
 cd conditional-access-baseline
 
 # 2. Run the deployment script
